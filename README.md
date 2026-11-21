@@ -24,9 +24,9 @@
 </p>
 
 <!-- Bio Summary -->
-I am an **AI/ML Engineer** with 2.5+ years of experience building production-grade Generative AI, mechanistic interpretability, and scalable machine learning systems[cite: 1, 3]. My core strength lies in designing LLM-powered applications—RAG pipelines, multi-agent architectures (LangGraph, MCP), reward modeling, and predictive forecasting—paired with FastAPI, Docker, MLflow, and AWS deployment[cite: 1, 3].
+I am an **AI/ML Engineer** with 2.5+ years of experience building production-grade Generative AI, mechanistic interpretability, and scalable machine learning systems. My core strength lies in designing LLM-powered applications—RAG pipelines, multi-agent architectures (LangGraph, MCP), reward modeling, and predictive forecasting—paired with FastAPI, Docker, MLflow, and AWS deployment.
 
-I currently work as an **AI Engineer Intern at Research Net.AI**, architecting interpretability and multi-agent routing pipelines, and previously built enterprise AI & ML solutions at **Twinmo.ai** and **KPMG**[cite: 3].
+I currently work as an **AI Engineer Intern at Research Net.AI**, architecting interpretability and multi-agent routing pipelines, and previously built enterprise AI & ML solutions at **Twinmo.ai** and **KPMG**.
 
 ---
 
@@ -35,14 +35,13 @@ I currently work as an **AI Engineer Intern at Research Net.AI**, architecting i
 <!-- Right-Aligned Coding Illustration GIF -->
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
-- 👩🏻‍💻 **AI/ML Engineer | Generative AI & MLOps Specialist**[cite: 3]
-- 🔭 Currently building **mechanistic interpretability & multi-agent pipelines** at **Research Net.AI**[cite: 3]
-- 🚀 Previously shipped **document intelligence & forecasting systems** at **Twinmo.ai** & **KPMG**[cite: 3]
-- 🎓 **M.S. in Data Science** @ **Illinois Institute of Technology**, Chicago[cite: 3]
-- ⚡ Stack: **Python, PyTorch, LangGraph, RAG, MCP, FastAPI, Docker, AWS**[cite: 1, 3]
-- 🏆 **5th Place Winner** at the **Claude Builders Hackathon** (*Allergy Guard*)[cite: 3]
-- 📫 How to reach me: **ishaagaonkar7@gmail.com**[cite: 3]
-- 💬 Ask me about **LLMs, Multi-Agent Systems, Time-Series Forecasting, and MLOps!**[cite: 1, 3]
+- 👩🏻‍💻 **AI/ML Engineer | Generative AI & MLOps Specialist**.
+- 🔭 Currently building **mechanistic interpretability & multi-agent pipelines** at **Research Net.AI**
+- 🎓 **M.S. in Data Science** @ **Illinois Institute of Technology**, Chicago.
+- ⚡ Stack: **Python, PyTorch, LangGraph, RAG, MCP, FastAPI, Docker, AWS**.
+- 🏆 **5th Place Winner** at the **Claude Builders Hackathon** (*Allergy Guard*).
+- 📫 How to reach me: **ishaagaonkar7@gmail.com**.
+- 💬 Ask me about **LLMs, Multi-Agent Systems, Time-Series Forecasting, and MLOps!**.
 
 <br clear="right"/>
 

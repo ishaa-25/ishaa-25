@@ -32,14 +32,15 @@ I currently work as an **AI Engineer Intern at Research Net.AI**, architecting i
 ### Talking about Personal Stuff:
 
 <!-- Right-Aligned Coding Illustration GIF -->
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<!-- Right-Aligned Coding Illustration GIF -->
+<img align="right" width="280" src="PASTE_YOUR_DIFFERENT_GIF_URL_HERE" alt="Woman coding animation" />
 
 - 👩🏻‍💻 **AI/ML Engineer | Generative AI & MLOps Specialist**.
 - 🔭 Currently building **mechanistic interpretability & multi-agent pipelines** at **Research Net.AI**
 - 🎓 **M.S. in Data Science** @ **Illinois Institute of Technology**, Chicago.
 - ⚡ Stack: **Python, PyTorch, LangGraph, RAG, MCP, FastAPI, Docker, AWS**.
 - 🏆 **5th Place Winner** at the **Claude Builders Hackathon** (*Allergy Guard*).
-- 📫 How to reach me: **ishaagaonkar7@gmail.com**.
+- 📫 How to reach me: **ishh7datasci@gmail.com**.
 - 💬 Ask me about **LLMs, Multi-Agent Systems, Time-Series Forecasting, and MLOps!**.
 
 <br clear="right"/>

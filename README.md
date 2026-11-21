@@ -2,7 +2,7 @@
 
 <!-- Dynamic Gradient Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=120&section=header&text=Isha%20Vikrant%20Gaonkar&fontSize=38&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=120&section=header&text=Isha%20Gaonkar&fontSize=38&fontColor=ffffff&fontAlignY=50" width="100%" />
 </div>
 
 <br/>
@@ -26,8 +26,7 @@
 <!-- Bio Summary -->
 I am an **AI/ML Engineer** with 2.5+ years of experience building production-grade Generative AI, mechanistic interpretability, and scalable machine learning systems. My core strength lies in designing LLM-powered applications—RAG pipelines, multi-agent architectures (LangGraph, MCP), reward modeling, and predictive forecasting—paired with FastAPI, Docker, MLflow, and AWS deployment.
 
-I currently work as an **AI Engineer Intern at Research Net.AI**, architecting interpretability and multi-agent routing pipelines, and previously built enterprise AI & ML solutions at **Twinmo.ai** and **KPMG**.
-
+I currently work as an **AI Engineer Intern at Research Net.AI**, architecting interpretability and multi-agent routing pipelines, and previously built enterprise AI & ML solutions at **Twinmo.ai**.
 ---
 
 ### Talking about Personal Stuff:

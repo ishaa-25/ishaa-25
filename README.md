@@ -31,9 +31,7 @@ I currently work as an **AI Engineer Intern at Research Net.AI**, architecting i
 
 ### Talking about Personal Stuff:
 
-<!-- Right-Aligned Coding Illustration GIF -->
-<!-- Right-Aligned Coding Illustration GIF -->
-<img align="right" width="280" src="PASTE_YOUR_DIFFERENT_GIF_URL_HERE" alt="Woman coding animation" />
+<img align="right" width="280" src="./developer.gif" alt="Developer coding animation" />
 
 - 👩🏻‍💻 **AI/ML Engineer | Generative AI & MLOps Specialist**.
 - 🔭 Currently building **mechanistic interpretability & multi-agent pipelines** at **Research Net.AI**
